@@ -1,0 +1,27 @@
+********** Wheel alterations **********
+
+- baseplate:
+	- screen tolerance to accept acrylic		DONE
+	- check switch tolerance
+	- sort encoder cut out (see body) 		
+	- cut the additional mounting points (x2)
+
+- body:
+	- rework the encoder mounting positions		DONE
+	- remove locating holes				DONE
+	- cut rails into floor to accet the pi
+	  module. Make sure pi sits at least 0.3mm
+	  lower than the baseplate
+	- create mounting point for the funky
+	  switch
+	- check supports when slicing that they
+	  don't cover the holes.
+	- make mounting holes bigger to accept
+	  brass threads easier
+
+- shifters:
+	- increase reach of shifters by 3mm.
+	- test the fit of dad's silicone 
+	  washers*
+        -*reduce lever width by 0.25mm to
+	  accept rubber washers
