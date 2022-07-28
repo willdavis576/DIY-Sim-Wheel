@@ -1,0 +1,25 @@
+T150 rim, 15 buttons (11 buttons + D-Pad)
+
+T150 base scans steering rim 1000 times per second (1000Hz).
+It sets SS line to LOW, reads 8 bytes (64 bits), sets SS line back to HIGH.
+SCK frequency (and data transfer rate at MISO line) is about ~1.47MHz.
+Almost no delay between bytes - transfer happens really quickly.
+
+All buttons released:
+11010001 11111111 11111111 11111111 11111111 11111111 11111111 11111111
+
+Cross (button 6)           11010001 10111111 11111111
+Circle (button 5)          11010001 11011111 11111111
+Square (button 4)          11010001 11101111 11111111
+Options (Start, button 8)  11010001 11110111 11111111
+R1 (Gear Up, button 2)     11010001 11111011 11111111
+Triangle (button 3)        11010001 11111101 11111111
+R2 (button 9)              11010001 11111110 11111111
+Share (Select, button 7)   11010001 11111111 01111111
+PS (Menu, button 13)       11010001 11111111 10111111
+D-Pad Down                 11010001 11111111 11011111
+L1 (Gear Down, button 1)   11010001 11111111 11101111
+D-Pad Right                11010001 11111111 11110111
+D-Pad Left                 11010001 11111111 11111011
+D-Pad Up                   11010001 11111111 11111101
+L2 (button 10)             11010001 11111111 11111110
