@@ -1,0 +1,3 @@
+C:/Users/Will/OneDrive - Middlesex University/Inventions/fanatec wheel/Raspberry Pi Pico/LCD 1.8/build/CMakeFiles/examples.dir
+C:/Users/Will/OneDrive - Middlesex University/Inventions/fanatec wheel/Raspberry Pi Pico/LCD 1.8/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Will/OneDrive - Middlesex University/Inventions/fanatec wheel/Raspberry Pi Pico/LCD 1.8/build/CMakeFiles/ZERO_CHECK.dir

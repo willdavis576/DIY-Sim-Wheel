@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Will\OneDrive - Middlesex University\Inventions\fanatec wheel\Raspberry Pi Pico\LCD 1.8\LCD_1in8_test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Will\OneDrive - Middlesex University\Inventions\fanatec wheel\Raspberry Pi Pico\LCD 1.8\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1645CB62-0991-30D6-A0E5-F9117B59530C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

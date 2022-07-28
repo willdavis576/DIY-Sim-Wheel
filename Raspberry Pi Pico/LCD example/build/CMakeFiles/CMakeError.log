@@ -1,0 +1,84 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.07/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: c:/program files (x86)/gnu arm embedded toolchain/10 2021.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib\libc.a(lib_a-exit.o): in function `exit':
+exit.c:(.text.exit+0x2c): undefined reference to `_exit'
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.07/bin/arm-none-eabi-g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: c:/program files (x86)/gnu arm embedded toolchain/10 2021.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib\libc.a(lib_a-exit.o): in function `exit':
+exit.c:(.text.exit+0x2c): undefined reference to `_exit'
+collect2.exe: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Will/OneDrive - Middlesex University/Inventions/fanatec wheel/Raspberry Pi Pico/LCD example/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_146e5\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_146e5.dir\build.make /nologo -L                  CMakeFiles\cmTC_146e5.dir\build
+Building C object CMakeFiles/cmTC_146e5.dir/testCCompiler.c.obj
+	"C:\PROGRA~2\GNU Arm Embedded Toolchain\10 2021.07\bin\arm-none-eabi-gcc.exe"    -o CMakeFiles\cmTC_146e5.dir\testCCompiler.c.obj   -c "C:\Users\Will\OneDrive - Middlesex University\Inventions\fanatec wheel\Raspberry Pi Pico\LCD example\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_146e5.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_146e5.dir/objects.a
+	CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_146e5.dir/objects.a @CMakeFiles\cmTC_146e5.dir\objects1.rsp
+'CMAKE_AR-NOTFOUND' is not recognized as an internal or external command,
+operable program or batch file.
+NMAKE : fatal error U1077: 'CMAKE_AR-NOTFOUND' : return code '0x1'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.07/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: c:/program files (x86)/gnu arm embedded toolchain/10 2021.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib\libc.a(lib_a-exit.o): in function `exit':
+exit.c:(.text.exit+0x2c): undefined reference to `_exit'
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.07/bin/arm-none-eabi-g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: c:/program files (x86)/gnu arm embedded toolchain/10 2021.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib\libc.a(lib_a-exit.o): in function `exit':
+exit.c:(.text.exit+0x2c): undefined reference to `_exit'
+collect2.exe: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Will/OneDrive - Middlesex University/Inventions/fanatec wheel/Raspberry Pi Pico/LCD example/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_eaac4\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_eaac4.dir\build.make /nologo -L                  CMakeFiles\cmTC_eaac4.dir\build
+Building C object CMakeFiles/cmTC_eaac4.dir/testCCompiler.c.obj
+	"C:\PROGRA~2\GNU Arm Embedded Toolchain\10 2021.07\bin\arm-none-eabi-gcc.exe"    -o CMakeFiles\cmTC_eaac4.dir\testCCompiler.c.obj   -c "C:\Users\Will\OneDrive - Middlesex University\Inventions\fanatec wheel\Raspberry Pi Pico\LCD example\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_eaac4.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_eaac4.dir/objects.a
+	CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_eaac4.dir/objects.a @CMakeFiles\cmTC_eaac4.dir\objects1.rsp
+'CMAKE_AR-NOTFOUND' is not recognized as an internal or external command,
+operable program or batch file.
+NMAKE : fatal error U1077: 'CMAKE_AR-NOTFOUND' : return code '0x1'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Will\OneDrive - Middlesex University\Inventions\fanatec wheel\Raspberry Pi Pico\LCD 1.8\build\CMakeFiles\9ddbd73d82a899bafccdc95d8eef8c44\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3BC13243-4F45-387C-85DB-2C761A4A8D0B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
